@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ludo-portfolio-v2/static/css/main.0f1f25a8.css",
-    "main.js": "/ludo-portfolio-v2/static/js/main.e0b2b9c3.js",
+    "main.css": "/ludo-portfolio-v2/static/css/main.8d334735.css",
+    "main.js": "/ludo-portfolio-v2/static/js/main.0d505486.js",
     "static/js/787.55d71872.chunk.js": "/ludo-portfolio-v2/static/js/787.55d71872.chunk.js",
     "index.html": "/ludo-portfolio-v2/index.html",
-    "main.0f1f25a8.css.map": "/ludo-portfolio-v2/static/css/main.0f1f25a8.css.map",
-    "main.e0b2b9c3.js.map": "/ludo-portfolio-v2/static/js/main.e0b2b9c3.js.map",
+    "main.8d334735.css.map": "/ludo-portfolio-v2/static/css/main.8d334735.css.map",
+    "main.0d505486.js.map": "/ludo-portfolio-v2/static/js/main.0d505486.js.map",
     "787.55d71872.chunk.js.map": "/ludo-portfolio-v2/static/js/787.55d71872.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1f25a8.css",
-    "static/js/main.e0b2b9c3.js"
+    "static/css/main.8d334735.css",
+    "static/js/main.0d505486.js"
   ]
 }
