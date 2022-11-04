@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp -r ./build/* ../ludo-pages/
+git add .
+git commit -m 'new release' && git push
